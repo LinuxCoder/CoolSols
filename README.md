@@ -1,6 +1,10 @@
 # CoolSols
 CTF tasks/writeups which I liked or feel important to go through
 
+## Asis 2023
+- [ ] zpwn. vulnerable zsh module
+- [ ] night.js. custom js interpreter
+
 ## Seccon 2023
 - [ ] umemo: mmap, page tables, pagefault. 
 - [ ] kmemo 
