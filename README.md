@@ -3,7 +3,7 @@ CTF tasks/writeups which I liked or feel important to go through
 
 ## Asis 2023
 - [ ] zpwn. vulnerable zsh module
-- [ ] night.js. custom js interpreter
+- [ ] night.js. custom js interpreter(patched from Serenity OS). https://gnoudnh.github.io/posts/asis2023-writeup/
 
 ## Seccon 2023
 - [ ] umemo: mmap, page tables, pagefault. 
