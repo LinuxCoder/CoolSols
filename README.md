@@ -2,6 +2,12 @@
 CTF tasks/writeups which I liked or feel important to go through
 
 ## Asis 2023
+- [ ] n1sub. Kernel module & wrong kernel config
+- [ ] n1proxy. rust using libc. unsafe
+- [ ] n1canary. fun c++ unique-ptr exploitation
+- [ ] n1array. hard
+
+## Asis 2023
 - [ ] zpwn. vulnerable zsh module
 - [ ] night.js. custom js interpreter(patched from Serenity OS). https://gnoudnh.github.io/posts/asis2023-writeup/
 
