@@ -7,6 +7,9 @@ CTF tasks/writeups which I liked or feel important to go through
 - [ ] n1canary. fun c++ unique-ptr exploitation
 - [ ] n1array. hard
 
+## hack.lu 2023
+- [ ] rustymix. rust-C type confusion
+
 ## Asis 2023
 - [ ] zpwn. vulnerable zsh module
 - [ ] night.js. custom js interpreter(patched from Serenity OS). https://gnoudnh.github.io/posts/asis2023-writeup/
